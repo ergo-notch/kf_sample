@@ -1,0 +1,37 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "kf_sample",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=ENV=development",
+                "--dart-define=BASE_URL=https://jsonblob.com"
+            ]
+        },
+        {
+            "name": "kf_sample (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "args": [
+                "--dart-define=ENV=profile",
+                "--dart-define=BASE_URL=https://jsonblob.com"
+            ]
+        },
+        {
+            "name": "kf_sample (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "args": [
+                "--dart-define=ENV=staging",
+                "--dart-define=BASE_URL=https://jsonblob.com"
+            ]
+        }
+    ]
+}
