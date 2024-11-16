@@ -4,6 +4,10 @@ This is a Flutter application built using **BLoC** for state management, **Isar*
 
 ---
 
+### Sample with UI Pixel perfect Tool
+
+https://github.com/user-attachments/assets/230ea5a6-f9d4-404f-bf4e-baa1a906774d
+
 ## Repository
 
 The source code for this project is available at:  
@@ -118,4 +122,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Screenshots
 
-### Sample with UI Pixel perfect Tool
+![Screenshot](https://github.com/user-attachments/assets/22196387-1894-4146-b2df-cc94dc8813e6)
+
+![Screenshot - iPhone 15 ](https://github.com/user-attachments/assets/71ce9384-f879-4e42-855e-958b973ccae5)
+
